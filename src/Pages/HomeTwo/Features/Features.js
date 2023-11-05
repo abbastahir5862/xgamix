@@ -4,16 +4,16 @@ import { Link } from 'react-router-dom';
 const Features = () => {
     const featuresData = [
         {
-            title: 'UI/UX Design',
-            description: 'Aliquam nibh tortor, faucibus quis ligula eget, faucibus auctor sapien.'
+            title: 'Game Design',
+            description: 'Where visions turn into interactive art, crafting unforgettable adventures.'
         },
         {
-            title: 'Development',
-            description: 'Aliquam nibh tortor, faucibus quis ligula eget, faucibus auctor sapien.'
+            title: 'Game Development',
+            description: 'In the world of game development, we bring fantasies to life, one line of code at a time.'
         },
         {
-            title: 'Digital Marketing',
-            description: 'Aliquam nibh tortor, faucibus quis ligula eget, faucibus auctor sapien.'
+            title: 'VR REALM',
+            description: 'Unlock the extraordinary in the uncharted worlds of VR, redefining reality.'
         },
     ];
     const [active, setActive] = useState(1);

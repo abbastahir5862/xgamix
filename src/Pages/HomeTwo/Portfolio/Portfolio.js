@@ -7,9 +7,9 @@ const Portfolio = () => {
             <div className="container">
                 <div className="row mb-60">
                     <div className="col-xl-12">
-                        <div className="portfolio__area-title lg-t-center"> 
+                        <div className="portfolio__area-title lg-t-center">
                             <span className="subtitle">Portfolio</span>
-                            <h2>Create Portfolio</h2> 
+                            <h2>Explore Our Creations</h2>
                         </div>
                     </div>
                 </div>
@@ -19,9 +19,9 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-1.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
-                                        <h4><Link to="/portfolio-details">Photography</Link></h4> 
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography1</span>
+                                        <h4><Link to="/portfolio-details">Photography</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -32,8 +32,8 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-2.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography2</span>
                                         <h4><Link to="/portfolio-details">Photography</Link></h4>
                                     </div>
                                 </div>
@@ -47,9 +47,9 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-3.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
-                                        <h4><Link to="/portfolio-details">Photography</Link></h4> 
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography3</span>
+                                        <h4><Link to="/portfolio-details">Photography</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -60,9 +60,9 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-4.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
-                                        <h4><Link to="/portfolio-details">Photography</Link></h4> 
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography4</span>
+                                        <h4><Link to="/portfolio-details">Photography</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -75,9 +75,9 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-5.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
-                                        <h4><Link to="/portfolio-details">Photography</Link></h4> 
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography5</span>
+                                        <h4><Link to="/portfolio-details">Photography</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -88,9 +88,9 @@ const Portfolio = () => {
                             <div className="portfolio__area-item-image">
                                 <img className="img__full" src="assets/img/portfolio/portfolio-6.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
-                                    <div className="portfolio__area-item-image-content-text"> 
-                                        <span>Photography</span>
-                                        <h4><Link to="#">Photography</Link></h4> 
+                                    <div className="portfolio__area-item-image-content-text">
+                                        <span>Photography6</span>
+                                        <h4><Link to="#">Photography</Link></h4>
                                     </div>
                                 </div>
                             </div>

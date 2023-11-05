@@ -3,13 +3,13 @@ import { Link } from 'react-router-dom';
 
 const Banner = () => {
     return (
-        <div className="banner__area-two" style={{backgroundImage: `url('assets/img/banner.jpg')`}}>
+        <div className="banner__area-two" style={{ backgroundImage: `url('assets/img/banner.jpg')` }}>
             <div className="container">
                 <div className="row">
                     <div className="col-xl-12">
-                        <div className="banner__area-two-content"> 
-                            <span>Best Portfolio Builder</span>
-                            <h1>Portfolio</h1> <Link className="theme-btn-1" to="/portfolio-two">All Project <i className="fal fa-long-arrow-right"></i></Link> 
+                        <div className="banner__area-two-content">
+                            <span>We Define Excellence in</span>
+                            <h1>Gaming</h1> <Link className="theme-btn-1" to="/portfolio-two">All Project <i className="fal fa-long-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>

@@ -10,7 +10,7 @@ import Skill from '../Skill/Skill';
 import Sponsors from '../Sponsors/Sponsors';
 
 const HomeTwo = () => {
-    pageTitle('Metier');
+    pageTitle('XGAMIX');
     return (
         <>
             <HeaderTwo></HeaderTwo>
