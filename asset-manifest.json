@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/xgamix/static/css/main.894aad62.css",
-    "main.js": "/xgamix/static/js/main.4d32bc82.js",
+    "main.js": "/xgamix/static/js/main.d12a772c.js",
     "static/js/787.6cd3aef0.chunk.js": "/xgamix/static/js/787.6cd3aef0.chunk.js",
     "index.html": "/xgamix/index.html",
     "main.894aad62.css.map": "/xgamix/static/css/main.894aad62.css.map",
-    "main.4d32bc82.js.map": "/xgamix/static/js/main.4d32bc82.js.map",
+    "main.d12a772c.js.map": "/xgamix/static/js/main.d12a772c.js.map",
     "787.6cd3aef0.chunk.js.map": "/xgamix/static/js/787.6cd3aef0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.894aad62.css",
-    "static/js/main.4d32bc82.js"
+    "static/js/main.d12a772c.js"
   ]
 }
