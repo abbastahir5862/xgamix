@@ -29,7 +29,7 @@ function App() {
     return (
         <>
             {loader && <Preloader />}
-            <Router basename="/xgamix"><Routes>
+            <Router><Routes>
                 <Route path="/" element={<HomeTwo />} />
                 <Route path="/home-two" element={<HomeTwo />} />
                 <Route path="/about" element={<AboutPage />} />
