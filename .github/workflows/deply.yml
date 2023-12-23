@@ -2,8 +2,7 @@ name: Deploy React App to Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: ["master"]
 
   workflow_dispatch:
 
