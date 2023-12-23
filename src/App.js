@@ -5,6 +5,7 @@ import Contact from './Pages/Contact/Contact';
 import Error from './Pages/Error/Error';
 //import HomeOne from "./Pages/HomeOne/HomeOne/HomeOne";
 //import HomeThree from './Pages/HomeThree/HomeThree/HomeThree';
+//import HomeThree from './Pages/HomeThree/HomeThree/HomeThree';
 import HomeTwo from './Pages/HomeTwo/HomeTwo/HomeTwo';
 import NewsDetails from './Pages/News/NewsDetails';
 import NewsStandard from './Pages/News/NewsStandard';
