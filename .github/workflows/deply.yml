@@ -63,3 +63,5 @@ jobs:
           git --work-tree build add --all
           git --work-tree build commit -m 'Deploy'
           git push origin HEAD:gh-pages --force
+        env:
+          GH_PAGES_PAT: ${{ secrets.GH_PAGES_PAT }}
