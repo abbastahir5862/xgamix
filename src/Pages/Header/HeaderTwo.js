@@ -55,7 +55,7 @@ const HeaderTwo = ({ variant }) => {
                                 </div>
                                 <div className="header__area-box-contact-content">
                                     <span>Quick Help</span>
-                                    <h6><a href="tel:+92(316)7666537">+92 ( 316 ) 7666 537</a></h6>
+                                    <h6><a href="tel:+92(316)7666537">+92 ( 334 ) 4224 682</a></h6>
                                 </div>
                             </div>
                         </div>
