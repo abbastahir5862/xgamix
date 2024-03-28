@@ -20,7 +20,7 @@ const Portfolio = () => {
                                 <img className="img__full" src="assets/img/portfolio/portfolio-1.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text">
-                                        <span <link to="/portfolio-details">Game Assets</span>
+                                        <span>Game Assets</span>
                                         <h4><Link to="/portfolio-details">Advertisement</Link></h4>
                                     </div>
                                 </div>
