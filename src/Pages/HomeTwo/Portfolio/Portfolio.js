@@ -34,7 +34,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text">
                                         <span>VR Events</span>
-                                        <h4><Link to="/portfolio-details">Stage</Link></h4>
+                                        <h4><Link to="/portfolio-details">First Premiere</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -62,7 +62,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text">
                                         <span>Game Assets</span>
-                                        <h4><Link to="/portfolio-details">Low Poly</Link></h4>
+                                        <h4><Link to="/portfolio-details">3D LowPoly</Link></h4>
                                     </div>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@ const Portfolio = () => {
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text">
                                         <span>Spatial Design</span>
-                                        <h4><Link to="#">Game store</Link></h4>
+                                        <h4><Link to="#">Virtual GameStore</Link></h4>
                                     </div>
                                 </div>
                             </div>
