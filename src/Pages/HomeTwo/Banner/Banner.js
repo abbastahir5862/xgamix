@@ -9,7 +9,7 @@ const Banner = () => {
                     <div className="col-xl-12">
                         <div className="banner__area-two-content">
                             <span>We Define Excellence in</span>
-                            <h1>Gaming</h1> <Link className="theme-btn-1" to="/portfolio-two">All Project <i className="fal fa-long-arrow-right"></i></Link>
+                            <h1>Gaming</h1> <Link className="theme-btn-1" to="/portfolio-three">All Project <i className="fal fa-long-arrow-right"></i></Link>
                         </div>
                     </div>
                 </div>
