@@ -53,7 +53,7 @@ const HeaderThree = ({variant}) => {
                                     </Down>
                                 </li>
                                 <li className="menu-item-children">
-                                    <Link to="">Portfolio</Link>
+                                    <Link to="/portfolio-three">Portfolio</Link>
                                     <Down>
                                         <ul className="submenu">
                                             <Portfolio />
