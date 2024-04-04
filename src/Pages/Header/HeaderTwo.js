@@ -34,11 +34,6 @@ const HeaderTwo = ({ variant }) => {
                                     </li>
                                     <li className="menu-item-has-children">
                                         <Link to="">Portfolio</Link>
-                                        <DropDown>
-                                            <ul className="sub-menu">
-                                                <Portfolio />
-                                            </ul>
-                                        </DropDown>
                                     </li>
                                     <li>
                                         <Link to="">News</Link>
