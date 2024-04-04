@@ -33,7 +33,7 @@ const Sponsors = () => {
                                 <Link to="#"><img src="assets/img/brand-1.png" alt="" /></Link>
                             </SwiperSlide>
                             <SwiperSlide className="sponsors__area-brand swiper-slide">
-                                <Link to="#"><img src="assets/img/brand-2.png" alt="" /></Link>
+                                <Link to="#"><img src="assets/img/brand-1.png" alt="" /></Link>
                             </SwiperSlide>
                             <SwiperSlide className="sponsors__area-brand swiper-slide">
                                 <Link to="#"><img src="assets/img/brand-3.png" alt="" /></Link>
