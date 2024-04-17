@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { 
-    // Home, News, Page, 
-        Portfolio } from "./Menu";
-import DropDown from "./DropDown";
+//import { 
+// Home, News, Page, 
+//       Portfolio } from "./Menu";
+//import DropDown from "./DropDown";
 
 const HeaderTwo = ({ variant }) => {
     const [isSticky, setIsSticky] = useState(false);
