@@ -76,8 +76,8 @@ const Portfolio = () => {
                                 <img className="img__full" src="assets/img/portfolio/portfolio-5.jpg" alt="" />
                                 <div className="portfolio__area-item-image-content">
                                     <div className="portfolio__area-item-image-content-text">
-                                        <span>Photography5</span>
-                                        <h4><Link to="/portfolio-details">Photography</Link></h4>
+                                        <span>Spatial Design</span>
+                                        <h4><Link to="/portfolio-details">Game Center</Link></h4>
                                     </div>
                                 </div>
                             </div>

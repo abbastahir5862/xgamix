@@ -16,14 +16,14 @@ const SkillArea = () => {
     ];
     return (
         <div className="skill__area-right">
-        <ScrollTrigger onEnter={()=> setSkillBar(true)} onExit={()=> setSkillBar(false)}>
+            <ScrollTrigger onEnter={() => setSkillBar(true)} onExit={() => setSkillBar(false)}>
                 <div className="skill__area-right-title">
-                    <h2>My Skill</h2> 
+                    <h2>Our Skill</h2>
                 </div>
                 <div className="skill__area-right-skill">
                     <div className="skill__area-right-skill-item">
                         <div className="skill__area-right-skill-item-content">
-                            <h6>Development</h6> 
+                            <h6>Designing</h6>
                             <div className="skill__area-right-skill-item-count">
                                 <>{skillBar && <CountUp start={0} end={80} duration={4} delay={0}></CountUp>}%</>
                             </div>
@@ -34,7 +34,7 @@ const SkillArea = () => {
                     </div>
                     <div className="skill__area-right-skill-item">
                         <div className="skill__area-right-skill-item-content">
-                            <h6>Designing</h6> 
+                            <h6>Development</h6>
                             <div className="skill__area-right-skill-item-count">
                                 <>{skillBar && <CountUp start={0} end={70} duration={4} delay={0}></CountUp>}%</>
                             </div>
@@ -45,7 +45,7 @@ const SkillArea = () => {
                     </div>
                     <div className="skill__area-right-skill-item">
                         <div className="skill__area-right-skill-item-content">
-                            <h6>Marketing</h6> 
+                            <h6>Optimisation</h6>
                             <div className="skill__area-right-skill-item-count">
                                 <>{skillBar && <CountUp start={0} end={75} duration={4} delay={0}></CountUp>}%</>
                             </div>
@@ -55,7 +55,7 @@ const SkillArea = () => {
                         </div>
                     </div>
                 </div>
-        </ScrollTrigger>        
+            </ScrollTrigger>
         </div>
     );
 };

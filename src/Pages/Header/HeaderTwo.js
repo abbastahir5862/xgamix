@@ -32,8 +32,8 @@ const HeaderTwo = ({ variant }) => {
                                         <Link to="/contact">Home</Link>
 
                                     </li>
-                                    <li className="menu-item-has-children">
-                                        <Link to="">Portfolio</Link>
+                                    <li>
+                                        <Link to="/portfolio-three">Portfolio</Link>
                                     </li>
                                     <li>
                                         <Link to="">News</Link>
