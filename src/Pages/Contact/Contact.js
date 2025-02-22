@@ -25,7 +25,7 @@ const Contact = () => {
                                         <span>Phone :</span>
                                     </div>
                                     <div className="contact__area-info-item-content">
-                                        <a href="tel:+123(458)896895">+92 ( 334 ) 422 4692</a>
+                                        <a href="tel:+123(458)896895">+92 ( 334 ) 422 4682</a>
                                     </div>
                                 </div>
                                 <div className="contact__area-info-item">
