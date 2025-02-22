@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import FooterThree from '../Footer/FooterThree';
-import Header from '../Header/HeaderFour';
+import Header from '../Header/HeaderTwo';
 import bannerBg from '../../assets/img/video-1.jpg';
 import Video from '../HomeOne/Video/Video';
 import { pageTitle } from '../PageTitle';
@@ -70,7 +70,7 @@ const ServicesPage = () => {
     ];
     return (
         <>
-        <Header></Header>
+            <Header></Header>
             <div className="services__page section-padding">
                 <div className="container">
                     <div className="row mb-30">
@@ -82,15 +82,15 @@ const ServicesPage = () => {
                         </div>
                     </div>
                     <div className="row">
-                        {servicesData.map((item, id)=>(
+                        {servicesData.map((item, id) => (
                             <div className="col-xl-12" key={id}>
                                 <div className="services__page-item">
                                     <div className="services__page-item-left">
                                         <div className="services__page-item-left-icon">
                                             <img src={item.imgOne} alt="" />
-                                        <div className="services__area-item-icon-one">
-                                            <img src={item.imgTwo} alt="" />
-                                        </div>
+                                            <div className="services__area-item-icon-one">
+                                                <img src={item.imgTwo} alt="" />
+                                            </div>
                                         </div>
                                         <div className="services__page-item-left-content">
                                             <h4><Link to={item.href}>{item.title}</Link></h4>
@@ -115,12 +115,12 @@ const ServicesPage = () => {
                         <div className="col-xl-12">
                             <div className="feedback__area-title">
                                 <span className="subtitle-one">Our Reviews</span>
-                                <h2>Awesome client Feedback</h2>                         
+                                <h2>Awesome client Feedback</h2>
                             </div>
                         </div>
                     </div>
                     <div className="row">
-                        {feedbackData.map((item, id)=>(
+                        {feedbackData.map((item, id) => (
                             <div className="col-xl-4 col-lg-6" key={id}>
                                 <div className="feedback__area-item">
                                     <div className="feedback__area-item-quote">
@@ -154,7 +154,7 @@ const ServicesPage = () => {
                     </div>
                 </div>
             </div>
-        <FooterThree></FooterThree>         
+            <FooterThree></FooterThree>
         </>
     );
 };
