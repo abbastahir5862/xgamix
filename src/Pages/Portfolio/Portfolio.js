@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import FooterThree from '../Footer/FooterThree';
-import Header from '../Header/HeaderFour';
+import Header from '../Header/HeaderTwo';
 import { pageTitle } from '../PageTitle';
 
 const Portfolio = () => {
