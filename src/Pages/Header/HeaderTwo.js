@@ -29,14 +29,14 @@ const HeaderTwo = ({ variant }) => {
                             <div className="header__area-box-main-menu">
                                 <ul className="mobile__menu" style={{ display: `${mobileToggle ? "block" : "none"}` }}>
                                     <li>
-                                        <Link to="/contact">Home</Link>
+                                        <Link to="/">Home</Link>
 
                                     </li>
                                     <li>
                                         <Link to="/portfolio-three">Portfolio</Link>
                                     </li>
                                     <li>
-                                        <Link to="">News</Link>
+                                        <Link to="/news">News</Link>
                                     </li>
                                     <li><Link to="/contact">Contact</Link></li>
                                 </ul>
