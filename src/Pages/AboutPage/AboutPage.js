@@ -3,7 +3,7 @@ import ScrollTrigger from 'react-scroll-trigger';
 import { Link } from 'react-router-dom';
 import CountUp from 'react-countup';
 import FooterThree from '../Footer/FooterThree';
-import Header from '../Header/HeaderFour';
+import Header from '../Header/HeaderTwo';
 import { pageTitle } from '../PageTitle';
 
 const AboutPage = () => {
