@@ -1,6 +1,6 @@
 import React from 'react';
 import FooterThree from '../Footer/FooterThree';
-import Header from '../Header/HeaderFour';
+import Header from '../Header/HeaderTwo';
 import { pageTitle } from '../PageTitle';
 
 const PortfolioDetailsTwo = () => {
