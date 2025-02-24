@@ -19,7 +19,6 @@ const HomeTwo = () => {
             <Portfolio></Portfolio>
             <Skill></Skill>
             <Sponsors></Sponsors>
-            <Blog></Blog>
             <FooterTow></FooterTow>
         </>
     );
