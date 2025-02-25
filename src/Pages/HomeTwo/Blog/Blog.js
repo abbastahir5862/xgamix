@@ -29,39 +29,7 @@ const Blog = () => {
         }
     ];
     return (
-        <div className="blog__area section-padding">
-            <div className="container">
-                <div className="row mb-30">
-                    <div className="col-xl-12">
-                        <div className="blog__area-title">
-                            <span className="subtitle-one">News & Blog</span>
-                            <h2>News & Insights</h2>
-                        </div>
-                    </div>
-                </div>
-                <div className="row">
-                    {blogData.map((item, id) => (
-                        <div className="col-xl-4 col-lg-4 col-md-6 mt-30" key={id}>
-                            <div className="blog__area-item">
-                                <div className="blog__area-item-image">
-                                    <Link to={item.href}><img src={item.image} alt="" /></Link>
-                                </div>
-                                <div className="blog__area-item-content">
-                                    <div className="blog__area-item-content-meta">
-                                        <ul>
-                                            <li><Link to="#"><i className="fal fa-calendar-alt"></i>{item.date}</Link></li>
-                                            <li><Link to="#"><i className="fal fa-comments"></i>{item.comment}</Link></li>
-                                        </ul>
-                                    </div>
-                                    <h4><Link to={item.href}>{item.title}</Link></h4>
-                                    <Link className="simple-btn" to={item.href}>Read More<i className="far fa-long-arrow-right"></i></Link>
-                                </div>
-                            </div>
-                        </div>
-                    ))}
-                </div>
-            </div>
-        </div>
+        <div></div>
     );
 
 };
