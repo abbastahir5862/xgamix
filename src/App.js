@@ -41,7 +41,7 @@ function App() {
                 <Route path="/portfolio-three" element={<PortfolioThree />} />
                 <Route path="/portfolio-details" element={<PortfolioDetails />} />
                 <Route path="/portfolio-details-two" element={<PortfolioDetailsTwo />} />
-                <Route path="/news" element={<NewsStandard />} />
+                {/*  <Route path="/news" element={<NewsStandard />} />*/}
                 <Route path="/news-details" element={<NewsDetails />} />
                 <Route path="/contact" element={<Contact />} />
                 <Route path="*" element={<Error />} />
